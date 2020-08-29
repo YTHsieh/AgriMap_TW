@@ -40,14 +40,14 @@ AgriMap_TW是一組用來快速、自動化製作面量圖的R script。面量�
 圖2. AgriMap_TW的專案結構。
 
 雙擊「AgriMap_TW-0.2.Rproj」的Rstudio專案檔，透過Rstudio進入此專案。
-![](https://i.imgur.com/Fs3jytl.png)
+![](https://i.imgur.com/Fs3jytl.png)  
 圖3. AgriMap_TW的Rstudio專案檔。
 
 初次使用，請透過「File/Open File...」開啟同一個資料夾內的「setup.R」。
 
 ![](https://i.imgur.com/L2N1uSk.png)
 圖4. 開啟「Open File...」功能。
-![](https://i.imgur.com/e0WfIOw.png)
+![](https://i.imgur.com/e0WfIOw.png)  
 圖5. 選擇「setup.R」。
 
 ![](https://i.imgur.com/aebwy2s.png)
@@ -83,7 +83,7 @@ AgriMap_TW是一組用來快速、自動化製作面量圖的R script。面量�
 ![](https://i.imgur.com/ILbBJAq.png)
 圖10. 此行以下請選取後執行。
 
-![](https://i.imgur.com/1lJ1S9W.png)
+![](https://i.imgur.com/1lJ1S9W.png)  
 圖11. 所有輸出結果會儲存於「Results」資料夾中。
 
 ![](https://i.imgur.com/tjbNaGs.png)  
