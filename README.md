@@ -86,7 +86,7 @@ AgriMap_TW是一組用來快速、自動化製作面量圖的R script。面量�
 ![](https://i.imgur.com/1lJ1S9W.png)
 圖11. 所有輸出結果會儲存於「Results」資料夾中。
 
-![](https://i.imgur.com/tjbNaGs.png)
+![](https://i.imgur.com/tjbNaGs.png)  
 圖12. 順利輸出面量圖。
 
 ## Further Reading
